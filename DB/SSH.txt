@@ -1,0 +1,4 @@
+ip : 194.163.35.87
+port : 65002
+username : u826507369
+password : Rajkamal@4321??
