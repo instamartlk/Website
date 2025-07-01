@@ -1,6 +1,1 @@
-Host : instamart.lk
-Port : 21
-User Name : u826507369
-Password : Rajkamal@43210????
-Root Path : /domains/instamart.lk/public_html/staging
-Web : http://instamart.lk
+
